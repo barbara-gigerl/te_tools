@@ -1,0 +1,1 @@
+/usr/bin/g++-8  -g  -rdynamic CMakeFiles/transfer_entropy_test.dir/test/transfer_entropy_test.cpp.o CMakeFiles/transfer_entropy_test.dir/src/transfer_entropy.cpp.o CMakeFiles/transfer_entropy_test.dir/src/binning.cpp.o  -o transfer_entropy_test -Wl,-Bstatic -lgtest -Wl,-Bdynamic -lpthread 

@@ -1,0 +1,1 @@
+/usr/bin/g++-8  -g  -rdynamic CMakeFiles/binning_test.dir/test/binning_test.cpp.o CMakeFiles/binning_test.dir/src/binning.cpp.o  -o binning_test -Wl,-Bstatic -lgtest -Wl,-Bdynamic -lpthread 
